@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.Properties.Resources.resources
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\bin\Debug\Microsoft_Cert_Practice.exe.config
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\bin\Debug\Microsoft_Cert_Practice.exe
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\bin\Debug\Microsoft_Cert_Practice.pdb
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.exe
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.pdb
+C:\Users\David\source\repos\Microsoft_Cert_Practice\Microsoft_Cert_Practice\obj\Debug\Microsoft_Cert_Practice.Form1.resources

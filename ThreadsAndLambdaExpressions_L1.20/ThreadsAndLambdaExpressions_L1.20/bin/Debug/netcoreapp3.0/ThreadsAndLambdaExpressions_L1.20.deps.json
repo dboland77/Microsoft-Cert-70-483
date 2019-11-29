@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ThreadsAndLambdaExpressions_L1.20/1.0.0": {
+        "runtime": {
+          "ThreadsAndLambdaExpressions_L1.20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadsAndLambdaExpressions_L1.20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

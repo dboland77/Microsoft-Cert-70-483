@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.exe
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.deps.json
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.runtimeconfig.json
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.runtimeconfig.dev.json
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.dll
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\bin\Debug\netcoreapp3.0\ParameterisedThreadStart.pdb
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\netcoreapp3.0\ParameterisedThreadStart.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\netcoreapp3.0\ParameterisedThreadStart.AssemblyInfo.cs
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\netcoreapp3.0\ParameterisedThreadStart.dll
+C:\Users\David\source\repos\ParameterisedThreadStart\ParameterisedThreadStart\obj\Debug\netcoreapp3.0\ParameterisedThreadStart.pdb

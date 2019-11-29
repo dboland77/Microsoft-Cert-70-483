@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SharedFlagThread_L1.24/1.0.0": {
+        "runtime": {
+          "SharedFlagThread_L1.24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharedFlagThread_L1.24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.exe
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.deps.json
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.runtimeconfig.json
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.runtimeconfig.dev.json
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.dll
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\bin\Debug\netcoreapp3.0\ParallelLinq.pdb
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp3.0\ParallelLinq.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp3.0\ParallelLinq.AssemblyInfo.cs
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp3.0\ParallelLinq.dll
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp3.0\ParallelLinq.pdb
+C:\Users\David\source\repos\ParallelLinq\ParallelLinq\obj\Debug\netcoreapp3.0\ParallelLinq.csprojAssemblyReference.cache

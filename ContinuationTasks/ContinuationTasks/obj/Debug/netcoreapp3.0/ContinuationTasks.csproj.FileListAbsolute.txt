@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.exe
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.deps.json
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.runtimeconfig.json
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.runtimeconfig.dev.json
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.dll
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\bin\Debug\netcoreapp3.0\ContinuationTasks.pdb
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\obj\Debug\netcoreapp3.0\ContinuationTasks.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\obj\Debug\netcoreapp3.0\ContinuationTasks.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\obj\Debug\netcoreapp3.0\ContinuationTasks.AssemblyInfo.cs
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\obj\Debug\netcoreapp3.0\ContinuationTasks.dll
+C:\Users\David\source\repos\ContinuationTasks\ContinuationTasks\obj\Debug\netcoreapp3.0\ContinuationTasks.pdb

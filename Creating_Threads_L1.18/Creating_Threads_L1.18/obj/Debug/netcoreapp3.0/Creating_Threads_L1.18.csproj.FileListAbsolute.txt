@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\obj\Debug\netcoreapp3.0\Creating_Threads_L1.18.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\obj\Debug\netcoreapp3.0\Creating_Threads_L1.18.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\obj\Debug\netcoreapp3.0\Creating_Threads_L1.18.AssemblyInfo.cs
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.exe
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.deps.json
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.runtimeconfig.json
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.runtimeconfig.dev.json
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.dll
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\bin\Debug\netcoreapp3.0\Creating_Threads_L1.18.pdb
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\obj\Debug\netcoreapp3.0\Creating_Threads_L1.18.dll
+C:\Users\David\source\repos\Creating_Threads_L1.18\Creating_Threads_L1.18\obj\Debug\netcoreapp3.0\Creating_Threads_L1.18.pdb

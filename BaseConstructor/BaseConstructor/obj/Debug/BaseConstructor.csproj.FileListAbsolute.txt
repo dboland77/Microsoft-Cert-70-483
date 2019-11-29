@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\obj\Debug\BaseConstructor.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\bin\Debug\BaseConstructor.exe.config
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\bin\Debug\BaseConstructor.exe
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\bin\Debug\BaseConstructor.pdb
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\obj\Debug\BaseConstructor.exe
+C:\Users\David\source\repos\BaseConstructor\BaseConstructor\obj\Debug\BaseConstructor.pdb

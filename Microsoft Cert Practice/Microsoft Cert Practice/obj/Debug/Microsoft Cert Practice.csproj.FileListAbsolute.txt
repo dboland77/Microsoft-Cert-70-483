@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\bin\Debug\Microsoft Cert Practice.exe.config
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\bin\Debug\Microsoft Cert Practice.exe
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\bin\Debug\Microsoft Cert Practice.pdb
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\obj\Debug\Microsoft Cert Practice.exe
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\obj\Debug\Microsoft Cert Practice.pdb
+C:\Users\David\source\repos\Microsoft Cert Practice\Microsoft Cert Practice\obj\Debug\Microsoft Cert Practice.csprojAssemblyReference.cache

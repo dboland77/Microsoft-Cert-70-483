@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_Tasks", "Parallel_Tasks\Parallel_Tasks.csproj", "{43EEA47C-C85A-4FF0-B59B-AE8E48753BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EEA47C-C85A-4FF0-B59B-AE8E48753BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EEA47C-C85A-4FF0-B59B-AE8E48753BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EEA47C-C85A-4FF0-B59B-AE8E48753BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EEA47C-C85A-4FF0-B59B-AE8E48753BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A608E36-0A81-49F3-A5EC-8232EB73CC29}
+	EndGlobalSection
+EndGlobal

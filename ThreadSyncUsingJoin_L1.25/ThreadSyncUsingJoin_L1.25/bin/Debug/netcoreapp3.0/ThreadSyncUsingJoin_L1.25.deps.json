@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ThreadSyncUsingJoin_L1.25/1.0.0": {
+        "runtime": {
+          "ThreadSyncUsingJoin_L1.25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadSyncUsingJoin_L1.25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.exe
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.deps.json
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.runtimeconfig.json
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.runtimeconfig.dev.json
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.dll
+C:\Users\David\source\repos\ThreadContext\ThreadContext\bin\Debug\netcoreapp3.0\ThreadContext.pdb
+C:\Users\David\source\repos\ThreadContext\ThreadContext\obj\Debug\netcoreapp3.0\ThreadContext.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ThreadContext\ThreadContext\obj\Debug\netcoreapp3.0\ThreadContext.AssemblyInfo.cs
+C:\Users\David\source\repos\ThreadContext\ThreadContext\obj\Debug\netcoreapp3.0\ThreadContext.dll
+C:\Users\David\source\repos\ThreadContext\ThreadContext\obj\Debug\netcoreapp3.0\ThreadContext.pdb

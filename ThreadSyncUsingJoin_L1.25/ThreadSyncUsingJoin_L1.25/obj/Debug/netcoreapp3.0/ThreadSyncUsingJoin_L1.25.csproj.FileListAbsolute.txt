@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.exe
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.deps.json
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.runtimeconfig.json
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.runtimeconfig.dev.json
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.dll
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\bin\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.pdb
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\obj\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\obj\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.AssemblyInfo.cs
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\obj\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.dll
+C:\Users\David\source\repos\ThreadSyncUsingJoin_L1.25\ThreadSyncUsingJoin_L1.25\obj\Debug\netcoreapp3.0\ThreadSyncUsingJoin_L1.25.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnAValueFromATask", "ReturnAValueFromATask\ReturnAValueFromATask.csproj", "{588B5C04-6C84-42AD-BFEA-3F070BB80530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588B5C04-6C84-42AD-BFEA-3F070BB80530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588B5C04-6C84-42AD-BFEA-3F070BB80530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588B5C04-6C84-42AD-BFEA-3F070BB80530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588B5C04-6C84-42AD-BFEA-3F070BB80530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7787306E-ED26-4211-BF1B-5DFD59D19458}
+	EndGlobalSection
+EndGlobal

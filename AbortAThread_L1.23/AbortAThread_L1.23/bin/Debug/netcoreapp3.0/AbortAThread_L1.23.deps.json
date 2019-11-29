@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AbortAThread_L1.23/1.0.0": {
+        "runtime": {
+          "AbortAThread_L1.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbortAThread_L1.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.exe
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.deps.json
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.runtimeconfig.json
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.runtimeconfig.dev.json
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.dll
+C:\Users\David\source\repos\ChildTasks\ChildTasks\bin\Debug\netcoreapp3.0\ChildTasks.pdb
+C:\Users\David\source\repos\ChildTasks\ChildTasks\obj\Debug\netcoreapp3.0\ChildTasks.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ChildTasks\ChildTasks\obj\Debug\netcoreapp3.0\ChildTasks.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ChildTasks\ChildTasks\obj\Debug\netcoreapp3.0\ChildTasks.AssemblyInfo.cs
+C:\Users\David\source\repos\ChildTasks\ChildTasks\obj\Debug\netcoreapp3.0\ChildTasks.dll
+C:\Users\David\source\repos\ChildTasks\ChildTasks\obj\Debug\netcoreapp3.0\ChildTasks.pdb

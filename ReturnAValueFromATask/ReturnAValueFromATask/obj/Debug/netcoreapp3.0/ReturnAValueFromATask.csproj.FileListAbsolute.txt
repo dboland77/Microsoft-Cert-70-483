@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.exe
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.deps.json
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.runtimeconfig.json
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.runtimeconfig.dev.json
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.dll
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\bin\Debug\netcoreapp3.0\ReturnAValueFromATask.pdb
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\obj\Debug\netcoreapp3.0\ReturnAValueFromATask.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\obj\Debug\netcoreapp3.0\ReturnAValueFromATask.AssemblyInfo.cs
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\obj\Debug\netcoreapp3.0\ReturnAValueFromATask.dll
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\obj\Debug\netcoreapp3.0\ReturnAValueFromATask.pdb
+C:\Users\David\source\repos\ReturnAValueFromATask\ReturnAValueFromATask\obj\Debug\netcoreapp3.0\ReturnAValueFromATask.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Creating_Threads_L1.18/1.0.0": {
+        "runtime": {
+          "Creating_Threads_L1.18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creating_Threads_L1.18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

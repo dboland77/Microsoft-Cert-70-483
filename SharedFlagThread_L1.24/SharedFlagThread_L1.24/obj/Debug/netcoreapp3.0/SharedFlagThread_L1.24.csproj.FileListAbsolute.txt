@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\obj\Debug\netcoreapp3.0\SharedFlagThread_L1.24.csprojAssemblyReference.cache
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\obj\Debug\netcoreapp3.0\SharedFlagThread_L1.24.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\obj\Debug\netcoreapp3.0\SharedFlagThread_L1.24.AssemblyInfo.cs
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.exe
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.deps.json
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.runtimeconfig.json
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.runtimeconfig.dev.json
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.dll
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\bin\Debug\netcoreapp3.0\SharedFlagThread_L1.24.pdb
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\obj\Debug\netcoreapp3.0\SharedFlagThread_L1.24.dll
+C:\Users\David\source\repos\SharedFlagThread_L1.24\SharedFlagThread_L1.24\obj\Debug\netcoreapp3.0\SharedFlagThread_L1.24.pdb

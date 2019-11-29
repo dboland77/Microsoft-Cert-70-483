@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.exe
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.deps.json
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.runtimeconfig.json
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.runtimeconfig.dev.json
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.dll
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\bin\Debug\netcoreapp3.0\TaskWaitAll.pdb
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\obj\Debug\netcoreapp3.0\TaskWaitAll.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\obj\Debug\netcoreapp3.0\TaskWaitAll.AssemblyInfo.cs
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\obj\Debug\netcoreapp3.0\TaskWaitAll.dll
+C:\Users\David\source\repos\TaskWaitAll\TaskWaitAll\obj\Debug\netcoreapp3.0\TaskWaitAll.pdb

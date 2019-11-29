@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.exe
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.deps.json
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.runtimeconfig.json
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.runtimeconfig.dev.json
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.dll
+C:\Users\David\source\repos\CreateATask\CreateATask\bin\Debug\netcoreapp3.0\CreateATask.pdb
+C:\Users\David\source\repos\CreateATask\CreateATask\obj\Debug\netcoreapp3.0\CreateATask.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\CreateATask\CreateATask\obj\Debug\netcoreapp3.0\CreateATask.AssemblyInfo.cs
+C:\Users\David\source\repos\CreateATask\CreateATask\obj\Debug\netcoreapp3.0\CreateATask.dll
+C:\Users\David\source\repos\CreateATask\CreateATask\obj\Debug\netcoreapp3.0\CreateATask.pdb

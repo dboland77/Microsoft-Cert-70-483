@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.exe
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.deps.json
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.runtimeconfig.json
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.runtimeconfig.dev.json
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.dll
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\bin\Debug\netcoreapp3.0\AbortAThread_L1.23.pdb
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\obj\Debug\netcoreapp3.0\AbortAThread_L1.23.csprojAssemblyReference.cache
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\obj\Debug\netcoreapp3.0\AbortAThread_L1.23.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\obj\Debug\netcoreapp3.0\AbortAThread_L1.23.AssemblyInfo.cs
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\obj\Debug\netcoreapp3.0\AbortAThread_L1.23.dll
+C:\Users\David\source\repos\AbortAThread_L1.23\AbortAThread_L1.23\obj\Debug\netcoreapp3.0\AbortAThread_L1.23.pdb

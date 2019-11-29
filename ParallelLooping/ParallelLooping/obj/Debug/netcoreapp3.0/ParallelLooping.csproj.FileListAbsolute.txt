@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.exe
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.deps.json
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.runtimeconfig.json
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.runtimeconfig.dev.json
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.dll
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\bin\Debug\netcoreapp3.0\ParallelLooping.pdb
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\obj\Debug\netcoreapp3.0\ParallelLooping.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\obj\Debug\netcoreapp3.0\ParallelLooping.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\obj\Debug\netcoreapp3.0\ParallelLooping.AssemblyInfo.cs
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\obj\Debug\netcoreapp3.0\ParallelLooping.dll
+C:\Users\David\source\repos\ParallelLooping\ParallelLooping\obj\Debug\netcoreapp3.0\ParallelLooping.pdb
